@@ -45,3 +45,11 @@ RNN과 다르게 각 셀에서 저장하는 Cell state가 존재한다.
     - 전체 단어 수 만큼의 Vector 사용
 - 효율적인 처리를 위해 각 단어를 실수 값을 가지는 Fixed-Length Vector로 변환 ($d_{embedding} << n_{words}$)
 - 학습을 통해 **Embedding** 추출
+
+## Language Modeling
+언어 모델링을 통해 AI가 문장 생성 등의 언어와 관련된 작업을 수행
+
+> 모델은 다음 글자를 예측
+
+- 각 문자를 정수로 mapping하여 사용한다.
+- 다음 문자 예측이므로 Classification 문제로 해결할 수 있다.
