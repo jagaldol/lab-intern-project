@@ -48,7 +48,3 @@ non-linearity를 위한 활성화 함수
 
 ## ONNX(Open Neural Network Exchange)
 다른 언어, 환경으로 제작한 모델을 옮기는 것
-
-
-## RNN(Recurrent Nerual Network)
-시간/순서의 관계가 있는 데이터에서 쓰임
