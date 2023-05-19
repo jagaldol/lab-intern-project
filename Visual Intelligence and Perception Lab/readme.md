@@ -31,8 +31,8 @@ Deep Learning & Computer Vision 기초 이해 및 Google Colab 실습
 
 딥러닝 신경망 기법 학습 및 실습
 
-1. Perceptron
-2. Multi Layer Perceptron
-3. Convolutional Neural Network
-4. Recurrent Neural Network
-5. Generative Models
+1. Introduction to AI and Deep Learning and Perceptron
+2. MNIST Classifier with Multi Layer Perceptron
+3. MNIST Classifier with Convolutional Neural Network
+4. Simple Chatbot with Recurrent Neural Network
+5. Introduce of Generative Models
