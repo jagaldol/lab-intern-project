@@ -36,9 +36,7 @@ VR에서 user's presence를 제공하는걸 지향한다.
 
 ## Engineering Aspects of VR/AR
 
-HoloLens 2
-
-사진 추가 必
+HoloLens 2가 현재 앞서고 있다.
 
 ## History of Virtual Reality
 
@@ -55,12 +53,13 @@ HoloLens 2
 
 ## VR Spectrum Technologies
 
+![virtuality continuum](./virtuality-continuum.png)
+
 - Reality-Virtuality Continuum  
-사진 추가할것
     - Reality
     - AR(Augmented Reality)
     - MR(Mixed Reality)
-        - AR과 A
+        - AR과 AV
     - VR(Virtual Reality)
 
 ### XR(eXtend Reality)
