@@ -98,3 +98,42 @@ VR, AR, MR을 합쳐서 부르는 것
 Unity와 UNREAL이 대표적인 툴이다.
 
 실습에선 Unity를 사용예정이다.
+
+## Human Perception
+
+Percentage of neurons in brain devoted to each Sense
+
+![sense map](./sense-map.png)
+
+* Sight : 30%
+* Touch : 8%
+* Hearing : 2%
+* Smell : < 1%
+
+> 따라서 시각(Visual Display), 청각(Audio), 촉각(Tactile) 순으로 VR에서 중요하게 다룬다.
+
+사람 눈은 렌즈가 존재하여, 마치 카메라와 같이 이를 볼록하게/오목하게 하여 망막(retina)에 상을 맺히게 한다.
+
+### human Horizontal and Vetical FOV(Field Of View)
+
+* vertical의 경우 135도(60도 위쪽, 75도 아래쪽)
+* horizontal의 경우 220도
+
+### Vergence와 Accommodation
+
+VR은 눈 바로 앞에 있는 스크린을 보기 때문에 초점에서 충돌이 일어나게 된다.
+
+![vergence and accomodation](./vergence_accommodation.png)
+
+* accomodation은 display의 거리에 맞추게 된다.
+* vergence는 VR 공간 상의 깊이 있는 곳에 맞추게 된다.
+* 따라서 실제보다 거리를 짧게 인식하게 되고 눈의 피로와 VR멀미를 유발한다.
+
+## Depth Perception
+
+### Depth cue
+
+두 눈이 주는 정보 뿐만 아니라, 하나의 눈으로도 얻을 수 있는 정보도 존재한다.
+
+![depth cue](.//depth-cue.png)
+
