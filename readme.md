@@ -32,11 +32,21 @@
 
 colab 노트북 환경에서의 딥러닝 신경망 기법 학습 및 실습
 
-- 학습 딥러닝 기법  
+- 딥러닝 기법 학습  
     1. Introduction to AI and Deep Learning and Perceptron
     2. MNIST Classifier with Multi Layer Perceptron
     3. MNIST Classifier with Convolutional Neural Network
     4. Simple Chatbot with Recurrent Neural Network
     5. Introduce of Generative Models
 
-## 3그룹 실습 완료 후 추가 예정
+## Unity를 활용한 VR 콘텐츠 제작 실습 및 연구 주제 탐구(3그룹)
+
+Unity3D를 사용하여 VR/AR 콘텐츠 제작
+
+1. [Introduction of VR/AR](https://github.com/jagaldol/lab-internship/blob/main/eXtended%20Reality%20and%20HCI%20lab/docs/README.md)
+2. [Jogging Simulation by Unity3D](https://github.com/jagaldol/lab-internship/tree/main/eXtended%20Reality%20and%20HCI%20lab/Jogging%20Simulator)  
+    [![image 1](https://github.com/jagaldol/lab-internship/assets/84557643/4d87b9a9-dd07-4947-9d49-cdcd3cffcc05)](https://github.com/jagaldol/lab-internship/tree/main/eXtended%20Reality%20and%20HCI%20lab/Jogging%20Simulator)
+3. [Interactive Virtual Human](https://github.com/jagaldol/Interactive-virtual-human)  
+    [![image 2](https://github.com/jagaldol/lab-internship/assets/84557643/ab73acc9-ef19-4a0e-a019-2f1df31d0d21)](https://github.com/jagaldol/Interactive-virtual-human)
+4. [Smartphone based AR with ARDK](https://github.com/jagaldol/AR-shooting-game)  
+    [![image 3](https://github.com/jagaldol/lab-internship/assets/84557643/1837fe58-e8c7-43e4-a56f-da5d4a2bc016)](https://github.com/jagaldol/AR-shooting-game)
